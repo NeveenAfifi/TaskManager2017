@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TaskManager2017</string>
+    <string name="email">Enter your e-mail</string>
+    <string name="Passward">Enter a passward</string>
+    <string name="email2">Enter your email</string>
+    <string name="SignIn">SignIn</string>
+    <string name="SignUp">SignUP</string>
+    <string name="RePassward">ReWrite Passward</string>
+    <string name="Name">Enter Your Name</string>
+    <string name="PhoneNumber">Enter Your Phone Number</string>
+    <string name="Save">Save</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SignOut">SignOut</string>
+    <string name="isCompleted">isCompleted</string>
+    <string name="title_activity_group">GroupActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

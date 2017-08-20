@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "503733060574",
+    "firebase_url": "https://taskmanager2017-5052f.firebaseio.com",
+    "project_id": "taskmanager2017-5052f",
+    "storage_bucket": "taskmanager2017-5052f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503733060574:android:57c7888d64cb92ac",
+        "android_client_info": {
+          "package_name": "com.afifi.neveen.taskmanager2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503733060574-3b7jl39tqbgha4kek969ge0j4nkufj2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.afifi.neveen.taskmanager2017",
+            "certificate_hash": "3ecac2855e164e230d029103672574a4478e6f95"
+          }
+        },
+        {
+          "client_id": "503733060574-2ntujcpj96d18ajj5ruu5fs3gfjgak5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJsHph4AVh5tqi4oe42IazuET7eBk4UI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503733060574-2ntujcpj96d18ajj5ruu5fs3gfjgak5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
